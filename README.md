@@ -13,6 +13,4 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript.
 
 You can try the live version of the calculator here: [Live Demo](#) *(https://mylasureshkumar.github.io/Calculator_App/)*
 
-## Screenshots
 
-![Calculator Screenshot](calculator.png) *("C:\Users\HI\OneDrive\Desktop\Calculator.png")*
